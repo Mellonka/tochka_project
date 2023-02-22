@@ -1,8 +1,8 @@
 # Учебный проект
 
-# фреймворк - FastAPI
+## фреймворк - FastAPI
 
-# routes
+## routes
 GET /echo
 POST /echo
 GET /hello
